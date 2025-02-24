@@ -1,0 +1,212 @@
+@font-face {
+    font-family: "my_icons";
+    src:  url("../icons.woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+[class^="icon-"] {
+    font-family: "my_icons";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    font-size: 1.1rem;
+    line-height: 1;
+    vertical-align: middle;
+}
+
+.icon-scikitlearn:before {
+  content: "\e900";
+}
+.icon-scipy:before {
+  content: "\e902";
+}
+.icon-matlab:before {
+  content: "\e903";
+}
+.icon-huggingface:before {
+  content: "\e914";
+}
+.icon-csharp:before {
+  content: "\e915";
+}
+.icon-cpp:before {
+  content: "\e91d";
+}
+.icon-angular:before {
+  content: "\e922";
+}
+.icon-solidity:before {
+  content: "\e923";
+}
+.icon-javascript:before {
+  content: "\e92a";
+}
+.icon-html:before {
+  content: "\e92b";
+}
+.icon-blockchain:before {
+  content: "\e92c";
+}
+.icon-mysql:before {
+  content: "\e92d";
+}
+.icon-numpy:before {
+  content: "\e931";
+}
+.icon-pandas:before {
+  content: "\e932";
+}
+.icon-solana:before {
+  content: "\e933";
+}
+.icon-aws:before {
+  content: "\e934";
+}
+.icon-kubernetes:before {
+  content: "\e935";
+}
+.icon-docker:before {
+  content: "\e936";
+}
+.icon-rust:before {
+  content: "\e937";
+}
+.icon-flask:before {
+  content: "\e938";
+}
+.icon-ethereum:before {
+  content: "\e939";
+}
+.icon-css:before {
+  content: "\e93f";
+}
+.icon-x:before {
+  content: "\e942";
+}
+.icon-dblp:before {
+  content: "\e944";
+}
+.icon-scholar:before {
+  content: "\e948";
+}
+.icon-python:before {
+  content: "\e919";
+}
+.icon-pytorch:before {
+  content: "\e918";
+}
+.icon-tensorflow:before {
+  content: "\e904";
+}
+.icon-polygon:before {
+  content: "\e901";
+}
+.icon-java:before {
+  content: "\e916";
+}
+.icon-globe:before {
+  content: "\e91b";
+}
+.icon-translate:before {
+  content: "\e91c";
+}
+.icon-lightbulb:before {
+  content: "\e91f";
+}
+.icon-brain:before {
+  content: "\e920";
+}
+.icon-idea:before {
+  content: "\e921";
+}
+.icon-git:before {
+  content: "\e924";
+}
+.icon-git-pull:before {
+  content: "\e925";
+}
+.icon-git-branch:before {
+  content: "\e926";
+}
+.icon-git-merge:before {
+  content: "\e927";
+}
+.icon-gitlab:before {
+  content: "\e928";
+}
+.icon-github:before {
+  content: "\e93a";
+}
+.icon-wireless:before {
+  content: "\e93d";
+}
+.icon-api:before {
+  content: "\e945";
+}
+.icon-lan:before {
+  content: "\e946";
+}
+.icon-linkedin:before {
+  content: "\e947";
+}
+.icon-share:before {
+  content: "\e94b";
+}
+.icon-distributed:before {
+  content: "\e94d";
+}
+.icon-neural-network:before {
+  content: "\e94f";
+}
+.icon-bitcoin:before {
+  content: "\e949";
+}
+.icon-send:before {
+  content: "\e94c";
+}
+.icon-envelope:before {
+  content: "\e950";
+}
+.icon-convolution:before {
+  content: "\e908";
+}
+.icon-calculator:before {
+  content: "\e906";
+}
+.icon-cloud:before {
+  content: "\e951";
+}
+.icon-convolution:before {
+  content: "\e908";
+}
+.icon-cloud:before {
+  content: "\e951";
+}
+.icon-embed:before {
+  content: "\e91a";
+}
+.icon-image:before {
+  content: "\e909";
+}
+.icon-images:before {
+  content: "\e90a";
+}
+.icon-sigma:before {
+  content: "\e90b";
+}
+.icon-chat:before {
+  content: "\e90d";
+}
+.icon-camera:before {
+  content: "\e90e";
+}
+.icon-grid:before {
+  content: "\e912";
+}
+.icon-verified:before {
+  content: "\e917";
+}  
