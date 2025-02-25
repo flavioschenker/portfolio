@@ -1,0 +1,11 @@
+bg.js
+text.txt
+*.npy
+*.csv
+*.vscode
+*.log
+*.err
+*.out
+**/wandb
+**/__pycache__
+**/log
