@@ -243,9 +243,9 @@
  61.54% {content: "cat abou";}
  69.23% {content: "cat about";}
  76.92% {content: "cat about.";}
- 84.62% {content: "cat about.t";}
- 92.31% {content: "cat about.tx";}
-100.00% {content: "cat about.txt";}
+ 84.62% {content: "cat about.\200B t";}
+ 92.31% {content: "cat about.\200B tx";}
+100.00% {content: "cat about.\200B txt";}
 }
 
 @keyframes prompt-skills-1 {/*10*/
@@ -280,7 +280,7 @@
  76.92% {content: "git clone ";}
  84.62% {content: "git clone ";}
  92.31% {content: "git clone ";}
-100.00% {content: "git clone git@github.com:flavioschenker/llm.git";}
+100.00% {content: "git clone git@\200B github.com:\200B flavioschenker/\200B llm.git";}
 }
 @keyframes prompt-project-2-1 {/*14*/
   0.00% {content: "";}
@@ -296,7 +296,7 @@
  76.92% {content: "git clone ";}
  84.62% {content: "git clone ";}
  92.31% {content: "git clone ";}
-100.00% {content: "git clone git@github.com:flavioschenker/integer.git";}
+100.00% {content: "git clone git@\200B github.com:\200B flavioschenker/\200B integer.git";}
 }
 @keyframes prompt-project-3-1 {/*14*/
   0.00% {content: "";}
@@ -312,7 +312,7 @@
  76.92% {content: "git clone ";}
  84.62% {content: "git clone ";}
  92.31% {content: "git clone ";}
-100.00% {content: "git clone git@github.com:flavioschenker/functa.git";}
+100.00% {content: "git clone git@\200B github.com:\200B flavioschenker/\200B functa.git";}
 }
 @keyframes prompt-project-4-1 {/*14*/
   0.00% {content: "";}
@@ -328,7 +328,7 @@
  76.92% {content: "git clone ";}
  84.62% {content: "git clone ";}
  92.31% {content: "git clone ";}
-100.00% {content: "git clone git@github.com:flavioschenker/webdesign.git";}
+100.00% {content: "git clone git@\200B github.com:\200B flavioschenker/\200B webdesign.git";}
 }
 @keyframes prompt-project-5-1 {/*14*/
   0.00% {content: "";}
@@ -344,7 +344,7 @@
  76.92% {content: "git clone ";}
  84.62% {content: "git clone ";}
  92.31% {content: "git clone ";}
-100.00% {content: "git clone git@github.com:flavioschenker/blockchain.git";}
+100.00% {content: "git clone git@\200B github.com:\200B flavioschenker/\200B blockchain.git";}
 }
 
 @keyframes prompt-project-1-2 {/*16*/
@@ -356,14 +356,14 @@
  33.33% {content: "code ";}
  40.00% {content: "code .";}
  46.67% {content: "code ./";}
- 53.33% {content: "code ./l";}
- 60.00% {content: "code ./ll";}
- 66.67% {content: "code ./llm";}
- 73.33% {content: "code ./llm/";}
- 80.00% {content: "code ./llm/r";}
- 86.67% {content: "code ./llm/r";}
- 93.33% {content: "code ./llm/r";}
-100.00% {content: "code ./llm/readme.md";}
+ 53.33% {content: "code ./\200B l";}
+ 60.00% {content: "code ./\200B ll";}
+ 66.67% {content: "code ./\200B llm";}
+ 73.33% {content: "code ./\200B llm/";}
+ 80.00% {content: "code ./\200B llm/\200B r";}
+ 86.67% {content: "code ./\200B llm/\200B r";}
+ 93.33% {content: "code ./\200B llm/\200B r";}
+100.00% {content: "code ./\200B llm/\200B readme.md";}
 }
 @keyframes prompt-project-2-2 {/*20*/
   0.00% {content: "";}
@@ -374,18 +374,18 @@
  26.32% {content: "code ";}
  31.58% {content: "code .";}
  36.84% {content: "code ./";}
- 42.11% {content: "code ./i";}
- 47.37% {content: "code ./in";}
- 52.63% {content: "code ./int";}
- 57.89% {content: "code ./inte";}
- 63.16% {content: "code ./integ";}
- 68.42% {content: "code ./intege";}
- 73.68% {content: "code ./integer";}
- 78.95% {content: "code ./integer/";}
- 84.21% {content: "code ./integer/r";}
- 89.47% {content: "code ./integer/r";}
- 97.74% {content: "code ./integer/r";}
-100.00% {content: "code ./integer/readme.md";}
+ 42.11% {content: "code ./\200B i";}
+ 47.37% {content: "code ./\200B in";}
+ 52.63% {content: "code ./\200B int";}
+ 57.89% {content: "code ./\200B inte";}
+ 63.16% {content: "code ./\200B integ";}
+ 68.42% {content: "code ./\200B intege";}
+ 73.68% {content: "code ./\200B integer";}
+ 78.95% {content: "code ./\200B integer/";}
+ 84.21% {content: "code ./\200B integer/\200B r";}
+ 89.47% {content: "code ./\200B integer/\200B r";}
+ 97.74% {content: "code ./\200B integer/\200B r";}
+100.00% {content: "code ./\200B integer/\200B readme.md";}
 }
 @keyframes prompt-project-3-2 {/*19*/
   0.00% {content: "";}
@@ -396,17 +396,17 @@
  27.78% {content: "code ";}
  33.33% {content: "code .";}
  38.89% {content: "code ./";}
- 44.44% {content: "code ./f";}
- 50.00% {content: "code ./fu";}
- 55.56% {content: "code ./fun";}
- 61.11% {content: "code ./func";}
- 66.67% {content: "code ./funct";}
- 72.22% {content: "code ./functa";}
- 77.78% {content: "code ./functa/";}
- 83.33% {content: "code ./functa/r";}
- 88.89% {content: "code ./functa/r";}
- 94.44% {content: "code ./functa/r";}
-100.00% {content: "code ./functa/readme.md";}
+ 44.44% {content: "code ./\200B f";}
+ 50.00% {content: "code ./\200B fu";}
+ 55.56% {content: "code ./\200B fun";}
+ 61.11% {content: "code ./\200B func";}
+ 66.67% {content: "code ./\200B funct";}
+ 72.22% {content: "code ./\200B functa";}
+ 77.78% {content: "code ./\200B functa/";}
+ 83.33% {content: "code ./\200B functa/\200B r";}
+ 88.89% {content: "code ./\200B functa/\200B r";}
+ 94.44% {content: "code ./\200B functa/\200B r";}
+100.00% {content: "code ./\200B functa/\200B readme.md";}
 }
 @keyframes prompt-project-4-2 {/*22*/
   0.00% {content: "";}
@@ -417,20 +417,20 @@
  23.81% {content: "code ";}
  28.57% {content: "code .";}
  33.33% {content: "code ./";}
- 38.10% {content: "code ./w";}
- 42.86% {content: "code ./we";}
- 47.62% {content: "code ./web";}
- 52.38% {content: "code ./webd";}
- 57.14% {content: "code ./webde";}
- 61.90% {content: "code ./webdes";}
- 66.67% {content: "code ./webdesi";}
- 71.43% {content: "code ./webdesig";}
- 76.19% {content: "code ./webdesign";}
- 80.95% {content: "code ./webdesign/";}
- 85.71% {content: "code ./webdesign/r";}
- 90.48% {content: "code ./webdesign/r";}
- 95.24% {content: "code ./webdesign/r";}
-100.00% {content: "code ./webdesign/readme.md";}
+ 38.10% {content: "code ./\200B w";}
+ 42.86% {content: "code ./\200B we";}
+ 47.62% {content: "code ./\200B web";}
+ 52.38% {content: "code ./\200B webd";}
+ 57.14% {content: "code ./\200B webde";}
+ 61.90% {content: "code ./\200B webdes";}
+ 66.67% {content: "code ./\200B webdesi";}
+ 71.43% {content: "code ./\200B webdesig";}
+ 76.19% {content: "code ./\200B webdesign";}
+ 80.95% {content: "code ./\200B webdesign/";}
+ 85.71% {content: "code ./\200B webdesign/\200B r";}
+ 90.48% {content: "code ./\200B webdesign/\200B r";}
+ 95.24% {content: "code ./\200B webdesign/\200B r";}
+100.00% {content: "code ./\200B webdesign/\200B readme.md";}
 }
 @keyframes prompt-project-5-2 {/*23*/
   0.00% {content: "";}
@@ -441,19 +441,19 @@
  22.73% {content: "code ";}
  27.27% {content: "code .";}
  31.82% {content: "code ./";}
- 36.36% {content: "code ./b";}
- 40.91% {content: "code ./bl";}
- 45.45% {content: "code ./blo";}
- 50.00% {content: "code ./bloc";}
- 54.55% {content: "code ./block";}
- 59.09% {content: "code ./blockc";}
- 63.64% {content: "code ./blockch";}
- 68.18% {content: "code ./blockcha";}
- 72.73% {content: "code ./blockchai";}
- 77.27% {content: "code ./blockchain";}
- 81.82% {content: "code ./blockchain/";}
- 86.36% {content: "code ./blockchain/r";}
- 90.91% {content: "code ./blockchain/r";}
- 95.45% {content: "code ./blockchain/r";}
-100.00% {content: "code ./blockchain/readme.md";}
+ 36.36% {content: "code ./\200B b";}
+ 40.91% {content: "code ./\200B bl";}
+ 45.45% {content: "code ./\200B blo";}
+ 50.00% {content: "code ./\200B bloc";}
+ 54.55% {content: "code ./\200B block";}
+ 59.09% {content: "code ./\200B blockc";}
+ 63.64% {content: "code ./\200B blockch";}
+ 68.18% {content: "code ./\200B blockcha";}
+ 72.73% {content: "code ./\200B blockchai";}
+ 77.27% {content: "code ./\200B blockchain";}
+ 81.82% {content: "code ./\200B blockchain/";}
+ 86.36% {content: "code ./\200B blockchain/\200B r";}
+ 90.91% {content: "code ./\200B blockchain/\200B r";}
+ 95.45% {content: "code ./\200B blockchain/\200B r";}
+100.00% {content: "code ./\200B blockchain/\200B readme.md";}
 }
